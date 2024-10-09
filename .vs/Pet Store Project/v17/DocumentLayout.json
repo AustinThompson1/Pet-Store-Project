@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80CFA9DF-BA5A-4143-B4DB-8F4C03F5B9EE}|PetStore.Data\\PetStore.Data.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\pet store project\\petstore.data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CFA9DF-BA5A-4143-B4DB-8F4C03F5B9EE}|PetStore.Data\\PetStore.Data.csproj|solutionrelative:petstore.data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CFA9DF-BA5A-4143-B4DB-8F4C03F5B9EE}|PetStore.Data\\PetStore.Data.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\pet store project\\petstore.data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CFA9DF-BA5A-4143-B4DB-8F4C03F5B9EE}|PetStore.Data\\PetStore.Data.csproj|solutionrelative:petstore.data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CFA9DF-BA5A-4143-B4DB-8F4C03F5B9EE}|PetStore.Data\\PetStore.Data.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\pet store project\\petstore.data\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CFA9DF-BA5A-4143-B4DB-8F4C03F5B9EE}|PetStore.Data\\PetStore.Data.csproj|solutionrelative:petstore.data\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CFA9DF-BA5A-4143-B4DB-8F4C03F5B9EE}|PetStore.Data\\PetStore.Data.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\pet store project\\petstore.data\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CFA9DF-BA5A-4143-B4DB-8F4C03F5B9EE}|PetStore.Data\\PetStore.Data.csproj|solutionrelative:petstore.data\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135749DF-51CB-4508-B7D1-6EF9BA18C5A1}|Pet Store Project\\Pet Store Project.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\pet store project\\pet store project\\logic\\productlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135749DF-51CB-4508-B7D1-6EF9BA18C5A1}|Pet Store Project\\Pet Store Project.csproj|solutionrelative:pet store project\\logic\\productlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135749DF-51CB-4508-B7D1-6EF9BA18C5A1}|Pet Store Project\\Pet Store Project.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\pet store project\\pet store project\\product_classes\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135749DF-51CB-4508-B7D1-6EF9BA18C5A1}|Pet Store Project\\Pet Store Project.csproj|solutionrelative:pet store project\\product_classes\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135749DF-51CB-4508-B7D1-6EF9BA18C5A1}|Pet Store Project\\Pet Store Project.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\pet store project\\pet store project\\logic\\iproductlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135749DF-51CB-4508-B7D1-6EF9BA18C5A1}|Pet Store Project\\Pet Store Project.csproj|solutionrelative:pet store project\\logic\\iproductlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CFA9DF-BA5A-4143-B4DB-8F4C03F5B9EE}|PetStore.Data\\PetStore.Data.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\pet store project\\petstore.data\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CFA9DF-BA5A-4143-B4DB-8F4C03F5B9EE}|PetStore.Data\\PetStore.Data.csproj|solutionrelative:petstore.data\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135749DF-51CB-4508-B7D1-6EF9BA18C5A1}|Pet Store Project\\Pet Store Project.csproj|c:\\users\\fazed\\onedrive\\documents\\projects\\pet store project\\pet store project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135749DF-51CB-4508-B7D1-6EF9BA18C5A1}|Pet Store Project\\Pet Store Project.csproj|solutionrelative:pet store project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\PetStore.Data\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "PetStore.Data\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\PetStore.Data\\IProductRepository.cs",
+              "RelativeToolTip": "PetStore.Data\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:24:27.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\PetStore.Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "PetStore.Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\PetStore.Data\\ProductRepository.cs",
+              "RelativeToolTip": "PetStore.Data\\ProductRepository.cs",
+              "ViewState": "AQIAAAgAAACAzczMzMwWwAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:23:38.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\PetStore.Data\\Model.cs",
+              "RelativeDocumentMoniker": "PetStore.Data\\Model.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\PetStore.Data\\Model.cs",
+              "RelativeToolTip": "PetStore.Data\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:39:00.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductLogic.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\Pet Store Project\\Logic\\ProductLogic.cs",
+              "RelativeDocumentMoniker": "Pet Store Project\\Logic\\ProductLogic.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\Pet Store Project\\Logic\\ProductLogic.cs",
+              "RelativeToolTip": "Pet Store Project\\Logic\\ProductLogic.cs",
+              "ViewState": "AQIAAAkAAAAAOjMzMzMiwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:50:24.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductLogic.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\Pet Store Project\\Logic\\IProductLogic.cs",
+              "RelativeDocumentMoniker": "Pet Store Project\\Logic\\IProductLogic.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\Pet Store Project\\Logic\\IProductLogic.cs",
+              "RelativeToolTip": "Pet Store Project\\Logic\\IProductLogic.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:22:11.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\Pet Store Project\\Product_Classes\\Products.cs",
+              "RelativeDocumentMoniker": "Pet Store Project\\Product_Classes\\Products.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\Pet Store Project\\Product_Classes\\Products.cs",
+              "RelativeToolTip": "Pet Store Project\\Product_Classes\\Products.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:23:06.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\PetStore.Data\\ProductContext.cs",
+              "RelativeDocumentMoniker": "PetStore.Data\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\PetStore.Data\\ProductContext.cs",
+              "RelativeToolTip": "PetStore.Data\\ProductContext.cs",
+              "ViewState": "AQIAAAIAAADgMjMzMzMrwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:33:35.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\Pet Store Project\\Program.cs",
+              "RelativeDocumentMoniker": "Pet Store Project\\Program.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\Pet Store Project\\Program.cs",
+              "RelativeToolTip": "Pet Store Project\\Program.cs",
+              "ViewState": "AQIAACYAAAAANTMzMzPzvzUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:17:47.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\PetStore.Data\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "PetStore.Data\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\FaZeD\\OneDrive\\Documents\\Projects\\Pet Store Project\\PetStore.Data\\ProductEntity.cs",
+              "RelativeToolTip": "PetStore.Data\\ProductEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:44:40.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
